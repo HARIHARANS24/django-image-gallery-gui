@@ -18,7 +18,7 @@ It is an ideal project for learning:
 ✅ How to configure static & media files  
 ✅ How to display images dynamically in a responsive layout  
 ✅ How to use Django Admin for content management   
-
+ 
 ---
 
 ## 🎯 Features
