@@ -17,7 +17,7 @@ It is an ideal project for learning:
 ✅ How to handle image uploads using `ImageField` + Pillow    
 ✅ How to configure static & media files   
 ✅ How to display images dynamically in a responsive layout   
-✅ How to use Django Admin for content management   
+✅ How to use Django Admin for content management    
   
 ---
 
