@@ -15,7 +15,7 @@ It is an ideal project for learning:
 
 ✅ How to use Django Models, Views, Templates (MVT)   
 ✅ How to handle image uploads using `ImageField` + Pillow     
-✅ How to configure static & media files    
+✅ How to configure static & media files     
 ✅ How to display images dynamically in a responsive layout   
 ✅ How to use Django Admin for content management    
   
